@@ -1,0 +1,225 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 469}}";
+			sepNavSelRange = "{446, 0}";
+			sepNavVisRange = "{0, 453}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 1845}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Emoji */ = {
+		activeExec = 0;
+		executables = (
+			A926FE55124B16CA00FB0E5D /* Emoji */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* EmojiViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 463}}";
+			sepNavSelRange = "{212, 0}";
+			sepNavVisRange = "{0, 607}";
+			sepNavWindowFrame = "{{15, 615}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* EmojiViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 1235}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 721}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A926FE55124B16CA00FB0E5D /* Emoji */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Emoji */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Emoji */,
+		);
+		codeSenseManager = A926FE66124B16E700FB0E5D /* Code sense */;
+		executables = (
+			A926FE55124B16CA00FB0E5D /* Emoji */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					597,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					557,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307072660;
+			PBXWorkspaceStateSaveDate = 307072660;
+		};
+		perUserProjectItems = {
+			A9D7B3F6124D830000D933BE /* PBXTextBookmark */ = A9D7B3F6124D830000D933BE /* PBXTextBookmark */;
+			A9D7B3F7124D830000D933BE /* PBXTextBookmark */ = A9D7B3F7124D830000D933BE /* PBXTextBookmark */;
+			A9D7B425124D8D7500D933BE /* PBXBookmark */ = A9D7B425124D8D7500D933BE /* PBXBookmark */;
+			A9D7B426124D8D7500D933BE /* PBXBookmark */ = A9D7B426124D8D7500D933BE /* PBXBookmark */;
+			A9D7B427124D8D7500D933BE /* PlistBookmark */ = A9D7B427124D8D7500D933BE /* PlistBookmark */;
+			A9D7B428124D8D7500D933BE /* PBXTextBookmark */ = A9D7B428124D8D7500D933BE /* PBXTextBookmark */;
+			A9D7B429124D8D7500D933BE /* PBXTextBookmark */ = A9D7B429124D8D7500D933BE /* PBXTextBookmark */;
+			A9D7B432124D8E9B00D933BE /* PBXTextBookmark */ = A9D7B432124D8E9B00D933BE /* PBXTextBookmark */;
+		};
+		sourceControlManager = A926FE65124B16E700FB0E5D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A926FE55124B16CA00FB0E5D /* Emoji */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Emoji;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A926FE65124B16E700FB0E5D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A926FE66124B16E700FB0E5D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A9D7B3F6124D830000D933BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 1845;
+		vrLoc = 0;
+	};
+	A9D7B3F7124D830000D933BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 446;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 0;
+	};
+	A9D7B425124D8D7500D933BE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A9D7B3FC124D84CD00D933BE /* EmojiViewBG@2x.png */;
+	};
+	A9D7B426124D8D7500D933BE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A9D7B3BC124D705500D933BE /* EmojiViewBG.png */;
+	};
+	A9D7B427124D8D7500D933BE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Emoji-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/cjgibbs/Desktop/Emoji/Emoji-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A9D7B428124D8D7500D933BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EmojiViewController.m */;
+		name = "EmojiViewController.m: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 0;
+	};
+	A9D7B429124D8D7500D933BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EmojiViewController.h */;
+		name = "EmojiViewController.h: 11";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+	A9D7B432124D8E9B00D933BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EmojiViewController.h */;
+		name = "EmojiViewController.h: 11";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+}
